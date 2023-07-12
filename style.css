@@ -1,0 +1,21 @@
+body {
+    font-family: calculatrice !important;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.form2 input {
+    width: 40% !important;
+}
+
+.flex-shrink-1 {
+    width: 40% !important;
+}
+
+.flex-shrink-1 input {
+    width: 100% !important;
+}
+
+.shadow {
+    box-shadow: 1px 1px 5px 1px black !important;
+}
